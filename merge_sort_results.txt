@@ -1,0 +1,20 @@
+    Case           N               Time
+---------------------------------------------
+    Best          10                   0 ns
+ Average          10                   0 ns
+   Worst          10                   0 ns
+    Best         100                   0 ns
+ Average         100              100100 ns
+   Worst         100              100100 ns
+    Best        1000              599100 ns
+ Average        1000              999500 ns
+   Worst        1000              500100 ns
+    Best       10000             5155800 ns
+ Average       10000             5798300 ns
+   Worst       10000             6599900 ns
+    Best      100000            57473000 ns
+ Average      100000            58645300 ns
+   Worst      100000            53681100 ns
+    Best     1000000            98734970 ns
+ Average     1000000          -202101959 ns
+   Worst     1000000           102901170 ns

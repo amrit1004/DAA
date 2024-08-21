@@ -1,0 +1,14 @@
+    Case           N     Element               Time
+-------------------------------------------------------------
+    Best          10           1                   0 ns
+ Average          10           5                   0 ns
+   Worst          10          10                   0 ns
+    Best       10000           1                   0 ns
+ Average       10000        5000                   0 ns
+   Worst       10000       10000              988000 ns
+    Best      100000           1                   0 ns
+ Average      100000       50000                   0 ns
+   Worst      100000      100000                   0 ns
+    Best     1000000           1                   0 ns
+ Average     1000000      500000             1039000 ns
+   Worst     1000000     1000000             2999000 ns
