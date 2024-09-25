@@ -71,4 +71,5 @@ int main() {
     cout << "Results saved to simulated_binary_search_results.txt\n";
 
     return 0;
+ 
 }
